@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose Miguel
 - 👀 I’m interested in apps, games and anime
-- 💞️ I’m looking to collaborate on awsome projects
+- 💞️ I’m looking to collaborate on awsome projects and teach all what i've learned from community!
 - 📫 How to reach me https://www.linkedin.com/in/josemiguelhpz/
 
 <!---
