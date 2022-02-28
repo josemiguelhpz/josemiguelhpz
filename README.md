@@ -2,7 +2,7 @@
 - 👀 I’m interested in apps, games and anime
 - 💞️ I’m looking to collaborate on awsome projects and teach all what i've learned from community!
 - 📫 How to reach me https://www.linkedin.com/in/josemiguelhpz/
-- 🔏 Privacy policies https://josemiguelhpz.github.io/politica
+- 🔏 Privacy policies https://josemiguelhpz.github.io/about-pages
 
 <!---
 josemiguelhpz/josemiguelhpz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
